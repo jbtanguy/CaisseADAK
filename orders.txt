@@ -1,0 +1,8 @@
+Frites	1
+Crêpe salé	0
+Andouille	0
+Gabby	1
+Frites	0
+Crêpe salé	4
+Andouille	0
+Gabby	0
